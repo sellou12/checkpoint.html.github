@@ -1,0 +1,19 @@
+.nav-bar{
+    display: flex;
+    list-style: none;
+}
+ul{
+    margin: 16 px;
+    background-color: red;
+}
+li a{
+    text-align: justify;
+    padding: 15px 17px;
+    text-decoration: black;
+}
+li a: :hover{
+    background- color: #000;: fixed;
+}
+.active{
+    background-color: red;
+}
